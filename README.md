@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ho-visto-cose.png" alt="AI GENERATED" width="800">
+  <img src="ho-visto-cose.jpg" alt="AI GENERATED" width="800">
 </p>
 
 # fishydisk
