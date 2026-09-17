@@ -2,7 +2,7 @@
   <img src="ho-visto-cose.jpg" alt="AI GENERATED" width="800">
 </p>
 
-# fishydisk
+# fishydisk - AI CODED
 
 **A suspiciously large collection of PiStorm experimental kernels, drivers and hacks.**
 
