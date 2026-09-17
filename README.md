@@ -88,11 +88,11 @@ Special thanks and credit to:
 * **Torsten Jager**, author of the original **compactflash.device / CFD**
 * **Jaroslav Pulchart**, author and maintainer of **ptable.library** and the modern CFD work
 * **Thomas Richter and Etienne Vogt**, authors of **LoadModule**
-* **hathach** and the **TinyUSB** contributors
-* **Akustikrausch / Andreas Wendorf**, author of the Paula 8364 emulator used by the Paula experiments
+* **Ha Thach** and the **TinyUSB** contributors
+* **Andreas Wendorf**, author of the Paula 8364 emulator used by the Paula experiments
 * the **Framethrower Denise** project and its contributors
 * the **libyuv** contributors
-* **ncafferkey**, where l2boot incorporates or derives from work originating in `3c589.device`
+* **Neil Cafferkey**, where l2boot incorporates or derives from work originating in 3c589.device
 
 Each individual project README and source tree should be considered authoritative for project-specific attribution, provenance and licensing.
 
