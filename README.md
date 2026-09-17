@@ -1,10 +1,10 @@
-# fishydisk
-
-**A suspiciously large collection of PiStorm experimental kernels, drivers and hacks.**
-
 <p align="center">
   <img src="ho-visto-cose.png" alt="AI GENERATED" width="800">
 </p>
+
+# fishydisk
+
+**A suspiciously large collection of PiStorm experimental kernels, drivers and hacks.**
 
 A collection of experimental Emu68 projects developed and hardware-tested on **PiStorm Classic with Raspberry Pi 3A+**.
 
