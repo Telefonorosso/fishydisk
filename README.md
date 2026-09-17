@@ -75,3 +75,24 @@ Retrocomputing has always been partly about understanding machines
 by experimenting with them; new tools do not necessarily diminish
 that spirit simply because they change who is able to participate.
 ```
+
+## Credits
+
+These experiments stand on a considerable amount of existing work.
+
+Special thanks and credit to:
+
+* **Michal Schulz** and all **Emu68** contributors
+* **Claude Schwarz, Niklas Ekström** and the **PiStorm** community
+* **Stéphane Guillard**, author of **AmiVNC**
+* **Torsten Jager**, author of the original **compactflash.device / CFD**
+* **Jaroslav Pulchart**, author and maintainer of **ptable.library** and the modern CFD work
+* **Thomas Richter and Etienne Vogt**, authors of **LoadModule**
+* **hathach** and the **TinyUSB** contributors
+* **Akustikrausch / Andreas Wendorf**, author of the Paula 8364 emulator used by the Paula experiments
+* the **Framethrower Denise** project and its contributors
+* the **libyuv** contributors
+* **ncafferkey**, where l2boot incorporates or derives from work originating in `3c589.device`
+
+Each individual project README and source tree should be considered authoritative for project-specific attribution, provenance and licensing.
+
