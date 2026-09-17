@@ -6,11 +6,13 @@
 
 **A suspiciously large collection of PiStorm experimental kernels, drivers and hacks.**
 
-Experimental AI CODED Emu68 projects hardware-tested on PiStorm Classic with Raspberry Pi 3A+.
+Experimental Emu68 projects hardware-tested on PiStorm Classic with Raspberry Pi 3A+.
 
 These repositories explore ways to extend the classic PiStorm beyond its usual role: USB peripherals, networking, audio/video capture, debugging and ARM-side services.
 
-**Replace only 1.1 Alpha kernels with the ones supplied here!**
+```text
+Replace only 1.1 Alpha kernels with the ones supplied here!
+```
 
 | Project | What it does | Repository |
 |---|---|---|
