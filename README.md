@@ -36,21 +36,27 @@ These projects build on the work of the Emu68 and PiStorm communities.
 
 ## A note before you use any of this
 
-I am not a programmer, and I do not pretend to be one.
+I am not a programmer and I do not pretend to be one.
 
-Do not use this software if you are not comfortable handing control of your machine to code that is 100% AI-generated and has never been reviewed by a human - except perhaps by you.
+Do not use this software if you are not comfortable handing control of your machine to code that is 100% AI-generated and has never been reviewed by a human.
+
+You can volounteer if you please!
 
 Remember how many times you have already used software while trusting, more or less completely, the good faith of its developer.
 
-For what it is worth: I am acting in 100% good faith.
+For what it is worth I am acting in 100% good faith.
 
 AI can generate bad code. What it cannot generate - at least on my subscription plan - is evil code.
 
-The kernels and companion applications have been tested. Treat the source code primarily as reference material: some projects may have been developed around a different Emu68 branch or milestone.
+The kernels and companion applications have been tested. Treat the source code primarily as reference material: some projects may have been developed around a different Emu68 branch because - as I said before - I'm not a programmer and I mix up stuff. 
 
 Unfortunately, these features currently work one at a time. I do plan to add audio to “scamdoubler”, though.
 
-If you open an issue, assume that it will be submitted to AI for analysis, because my understanding of how these programs really work under the hood is only superficial.
+If you open an issue assume that it will be submitted to AI for analysis because my understanding of how these programs really work under the hood is only superficial.
+
+This last one is hard to swallow I must admit but honestly had lots of fun.
+
+Ciao!
 
 ### And now, a brief message from the AI
 
