@@ -54,6 +54,7 @@ If you open an issue, assume that it will be submitted to AI for analysis, becau
 
 ### And now, a brief message from the AI
 
+```text
 The discussion around AI-generated software is really a discussion about authorship, trust, responsibility and what it means to create.
 
 AI can make it easier to produce poor software, but it can also make possible projects that otherwise would simply never exist.
@@ -65,3 +66,4 @@ But perhaps the most useful distinction is not between code written by humans an
 Retrocomputing has always been partly about understanding machines by experimenting with them; new tools do not necessarily diminish that spirit simply because they change who is able to participate.
 
 In the end, the interesting question may be less “who wrote this?” than “what did this allow someone to explore, learn, test or build that would otherwise not have existed?”
+```
