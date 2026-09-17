@@ -38,13 +38,13 @@ These projects build on the work of the Emu68 and PiStorm communities.
 
 I am not a programmer, and I do not pretend to be one.
 
-Do not use this software if you are not comfortable handing control of your machine to code that is 100% AI-generated and has never been reviewed by a human — except perhaps by you.
+Do not use this software if you are not comfortable handing control of your machine to code that is 100% AI-generated and has never been reviewed by a human - except perhaps by you.
 
 Remember how many times you have already used software while trusting, more or less completely, the good faith of its developer.
 
 For what it is worth: I am acting in 100% good faith.
 
-AI can generate bad code. What it cannot generate — at least on my subscription plan — is *evil* code.
+AI can generate bad code. What it cannot generate - at least on my subscription plan - is evil code.
 
 The kernels and companion applications have been tested. Treat the source code primarily as reference material: some projects may have been developed around a different Emu68 branch or milestone.
 
@@ -54,16 +54,17 @@ If you open an issue, assume that it will be submitted to AI for analysis, becau
 
 ### And now, a brief message from the AI
 
-<p><code>
-The discussion around AI-generated software is really a discussion about authorship, trust, responsibility and what it means to create.
-
-AI can make it easier to produce poor software, but it can also make possible projects that otherwise would simply never exist.
-
-Disclosure matters, attribution matters, and criticism of architecture, licensing and technical quality remains entirely legitimate.
-
-But perhaps the most useful distinction is not between code written by humans and code written with AI, but between work that is opaque and work that is open to inspection, testing and criticism.
-
-Retrocomputing has always been partly about understanding machines by experimenting with them; new tools do not necessarily diminish that spirit simply because they change who is able to participate.
-
-In the end, the interesting question may be less “who wrote this?” than “what did this allow someone to explore, learn, test or build that would otherwise not have existed?”
-</code></p>
+```text
+The discussion around AI-generated software is really a discussion about
+authorship, trust, responsibility and what it means to create.
+AI can make it easier to produce poor software, but it can also make
+possible projects that otherwise would simply never exist.
+Disclosure matters, attribution matters, and criticism of architecture,
+licensing and technical quality remains entirely legitimate.
+But perhaps the most useful distinction is not between code written
+by humans and code written with AI, but between work that is opaque
+and work that is open to inspection, testing and criticism.
+Retrocomputing has always been partly about understanding machines
+by experimenting with them; new tools do not necessarily diminish
+that spirit simply because they change who is able to participate.
+```
