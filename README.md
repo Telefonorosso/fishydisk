@@ -49,7 +49,7 @@ For what it is worth I am acting in 100% good faith.
 
 AI can generate bad code. What it cannot generate - at least on my subscription plan - is evil code.
 
-The kernels and companion applications have all been painfully tested, destoying an Amiga 600 in the process. Treat the source code primarily as reference material: some projects may have been developed around a different Emu68 branch because - as I said before - I'm not a programmer and I mix up stuff. 
+The kernels and companion applications have all been painfully tested, destroying an Amiga 600 in the process. Treat the source code primarily as reference material: some projects may have been developed around a different Emu68 branch because - as I said before - I'm not a programmer and I mix up stuff. 
 
 Unfortunately, these features currently work one at a time.
 
