@@ -11,7 +11,7 @@ Experimental Emu68 projects hardware-tested on PiStorm Classic with Raspberry Pi
 These repositories explore ways to extend the classic PiStorm beyond its usual role: USB peripherals, networking, audio/video capture, debugging and ARM-side services.
 
 ```text
-Replace only 1.1 Alpha kernels with the ones supplied here!
+Replace only 1.1 Alpha CLASSIC kernels with the ones supplied here!
 ```
 
 | Project | What it does | Repository |
