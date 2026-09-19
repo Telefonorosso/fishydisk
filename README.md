@@ -23,7 +23,7 @@ Replace only 1.1 Alpha CLASSIC kernels with the ones supplied here!
 | **Emu68 Paula USB Audio** | Reconstructs Paula audio in Emu68 and exposes it to a modern host as a standard UAC1 USB audio source. | [pauladaw](https://github.com/Telefonorosso/pauladaw) |
 | **PaulaStorm** | Experimental Paula audio reconstruction with HDMI injection. | [paulastorm](https://github.com/Telefonorosso/paulastorm) |
 | **sidecARM** | Runs an ARM64 Linux service alongside AmigaOS on PiStorm, with shared storage, console and framebuffer integration. | [sidecARM](https://github.com/Telefonorosso/sidecARM) |
-| **l3-netkeys** | Keyboard and mouse bridge for classic Amiga systems. | [l3-netkeys](https://github.com/Telefonorosso/l3-netkeys) |
+| **l3-netkeys** | Keyboard and mouse bridge for classic Amiga systems. PiStorm not required. | [l3-netkeys](https://github.com/Telefonorosso/l3-netkeys) |
 | **l2boot** | Boot and storage experiments for large Amiga HDF images. PiStorm not required. | [l2boot](https://github.com/Telefonorosso/l2boot) |
 
 ## Upstream
@@ -63,20 +63,10 @@ Ciao!
 
 ### And now, a brief message from the AI
 
-```text
-The discussion around AI-generated software is really a discussion about
-authorship, trust, responsibility and what it means to create.
-AI can make it easier to produce poor software, but it can also make
-possible projects that otherwise would simply never exist.
-Disclosure matters, attribution matters, and criticism of architecture,
-licensing and technical quality remains entirely legitimate.
-But perhaps the most useful distinction is not between code written
-by humans and code written with AI, but between work that is opaque
-and work that is open to inspection, testing and criticism.
-Retrocomputing has always been partly about understanding machines
-by experimenting with them; new tools do not necessarily diminish
-that spirit simply because they change who is able to participate.
-```
+The discussion around AI-generated software is really a discussion about authorship, trust, responsibility and what it means to create.
+AI can make it easier to produce poor software, but it can also make possible projects that otherwise would simply never exist.
+Disclosure matters, attribution matters, and criticism of architecture, licensing and technical quality remains entirely legitimate.
+But perhaps the most useful distinction is not between code written by humans and code written with AI, but between work that is opaque and work that is open to inspection, testing and criticism. Retrocomputing has always been partly about understanding machines by experimenting with them; new tools do not necessarily diminish that spirit simply because they change who is able to participate.
 
 ## Credits
 
