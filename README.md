@@ -26,7 +26,7 @@ Replace only 1.1 Alpha CLASSIC kernels with the ones supplied here!
 | **l3-netkeys** | Keyboard and mouse bridge for classic Amiga systems. PiStorm not required. | [l3-netkeys](https://github.com/Telefonorosso/l3-netkeys) |
 | **l2boot** | Boot and storage experiments for large Amiga HDF images. PiStorm not required. | [l2boot](https://github.com/Telefonorosso/l2boot) |
 | **ddcswitch** | Utility for switching the HDMI monitor input directly through DDC/CI from an Emu68/PiStorm system. | [ddcswitch](https://github.com/Telefonorosso/ddcswitch) |
-| **airpaula** | Stream Paula audio over Bluetooth using the Raspberry Pi3A+ onboard Bluetooth controller. | [ddcswitch](https://github.com/Telefonorosso/airpaula) |
+| **airpaula** | Stream Paula audio over Bluetooth using the Raspberry Pi3A+ onboard Bluetooth controller. | [airpaula](https://github.com/Telefonorosso/airpaula) |
 
 ## Upstream
 
