@@ -25,6 +25,7 @@ Replace only 1.1 Alpha CLASSIC kernels with the ones supplied here!
 | **sidecARM** | Runs an ARM64 Linux service alongside AmigaOS on PiStorm, with shared storage, console and framebuffer integration. | [sidecARM](https://github.com/Telefonorosso/sidecARM) |
 | **l3-netkeys** | Keyboard and mouse bridge for classic Amiga systems. PiStorm not required. | [l3-netkeys](https://github.com/Telefonorosso/l3-netkeys) |
 | **l2boot** | Boot and storage experiments for large Amiga HDF images. PiStorm not required. | [l2boot](https://github.com/Telefonorosso/l2boot) |
+| **peekaboot** | Boot an HDF image served by a Windows companion app. | [peekaboot](https://github.com/Telefonorosso/peekaboot) |
 | **ddcswitch** | Utility for switching the HDMI monitor input directly through DDC/CI from an Emu68/PiStorm system. | [ddcswitch](https://github.com/Telefonorosso/ddcswitch) |
 | **airpaula** | Stream Paula audio over Bluetooth using the Raspberry Pi3A+ onboard Bluetooth controller. | [airpaula](https://github.com/Telefonorosso/airpaula) |
 
