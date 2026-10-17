@@ -26,6 +26,7 @@ These repositories explore ways to extend the classic PiStorm beyond its usual r
 | **peekaboot** | Boot an HDF image served by a Windows companion app. | [peekaboot](https://github.com/Telefonorosso/peekaboot) |
 | **ddcswitch** | Utility for switching the HDMI monitor input directly through DDC/CI from an Emu68/PiStorm system. | [ddcswitch](https://github.com/Telefonorosso/ddcswitch) |
 | **airpaula** | Stream Paula audio over Bluetooth using the Raspberry Pi3A+ onboard Bluetooth controller. | [airpaula](https://github.com/Telefonorosso/airpaula) |
+| **singlemon** | The cheapest KVM switch ever. PiStorm not required. | [singlemon](https://github.com/Telefonorosso/singlemon) |
 
 ## Upstream
 
